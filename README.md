@@ -271,18 +271,6 @@ zc.buildout,zc.buildout-1.6.0.tgz,MyAgent,142
 
 
 
-## 参考文献
-
-[^1]: http://pypi.python.org/pypi/pep381client
-[^2]: http://en.wikipedia.org/wiki/ISO_8601
-[^3]: http://pypi.python.org/pypi/zc.buildout
-[^4]: http://pypi.python.org/pypi/setuptools
-[^5]: http://pypi.python.org/pypi/pip
-[^6]: http://plone.org/products/plonesoftwarecenter
-[^7]: http://www.chrisarndt.de/projects/eggbasket
-
-
-
 ## 特别鸣谢
 
 Georg Brandl。
@@ -294,10 +282,21 @@ Georg Brandl。
 本文件从属于公有域。
 
 
-
 ---
 
 源代码：https://github.com/python/peps/blob/main/peps/pep-0381.rst
 
 上次修改时间：`2023-09-09 17:39:29 GMT`
+
+
+## 参考文献
+
+
+[^1]: http://pypi.python.org/pypi/pep381client
+[^2]: http://en.wikipedia.org/wiki/ISO_8601
+[^3]: http://pypi.python.org/pypi/zc.buildout
+[^4]: http://pypi.python.org/pypi/setuptools
+[^5]: http://pypi.python.org/pypi/pip
+[^6]: http://plone.org/products/plonesoftwarecenter
+[^7]: http://www.chrisarndt.de/projects/eggbasket
 
