@@ -10,7 +10,7 @@ An unofficial translation of PEP 381.
 
 
 - Original URL：https://peps.python.org/pep-0381/
-- `Date`：`2024-07-26`
+- Date：`2024-07-26`
 - Disclaimer: This translation is only for personal  study purposes and is not authorized by PEP administration. This translation is not responsible for the incorrectness of the relevant facts, nor is it responsible for the incorrectness of the content of related derivative works.
 
 
